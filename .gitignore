@@ -1,4 +1,4 @@
-# Avoid accidental upload of the Sketch and Figma design files
+1# Avoid accidental upload of the Sketch and Figma design files
 #####################################################
 ## Please do not remove lines 5 and 6 - thanks! 🙂 ##
 #####################################################
@@ -14,3 +14,4 @@
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
 .prettierignore
+node_modules
